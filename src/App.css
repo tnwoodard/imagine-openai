@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app-input {
+  height: 25px;
+  margin: 20px;
+  width: 400px;
+}
+
+.result-image {
+  margin-top: 20px;
+  width: 400px;
+}
